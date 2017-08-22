@@ -6,6 +6,7 @@
 - https://github.com/dcloudio/mui
 - https://github.com/sindresorhus/github-markdown-css
 - https://github.com/caramelcss/caramel
+- https://github.com/sentsin/layui
 
 ## 未归类
 - http://dev.office.com/fabric
